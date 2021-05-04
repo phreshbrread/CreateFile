@@ -71,6 +71,10 @@ namespace CreateFile
             {
                 Restart("Please Input Valid Number");
             }
+            catch (IOException)
+            {
+                Restart("Insufficient Disk Space");
+            }
         }
 
         static void Restart(string restartMessage)
