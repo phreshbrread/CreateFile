@@ -1,2 +1,2 @@
 # CreateFile
-Command line program to create dummy files
+A command line program to create dummy files
