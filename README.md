@@ -1,7 +1,7 @@
 # CreateFile
 A command line program to create dummy files
 
-# Changelog
+## Changelog
 v2.0 - 06/05/2021
 - User can now choose unit to use instead of just bytes.
 - Shows size of file after making it.
