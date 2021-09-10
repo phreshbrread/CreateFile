@@ -1,5 +1,5 @@
 # CreateFile
-A command line program to create dummy files
+A simple command line program to create dummy files
 
 ## Changelog
 v2.0 - 06/05/2021
